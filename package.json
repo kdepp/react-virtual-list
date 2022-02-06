@@ -1,5 +1,5 @@
 {
-  "name": "react-virtual-list",
+  "name": "kd-react-virtual-list",
   "version": "2.3.0",
   "description": "Super simple virtualized list React higher-order component",
   "main": "lib/VirtualList.js",
